@@ -1,0 +1,5 @@
+filme = input('fale o nome do filme: ')
+if filme == 'as branquelas':
+   print('Que legal, o meu támbem!!!')
+else:
+   print('Ah... entendi...')
